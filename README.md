@@ -1,4 +1,4 @@
-# NGINX
+# NGINX-ingress-kubernetes
 To install nginx, make sure that helm ins installed
 Create a namespace nginx
  helm repo add nginx https://helm.nginx.com/stable
